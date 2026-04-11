@@ -108,7 +108,7 @@ const teamMembers = [
       {
         name: '尚菲',
         nameEn: 'SHANG Fei',
-        role: '2021级,联合培养',
+        role: '2021级 联合培养 博士',
         //research: '',
         image: 'https://github.com/suowei0205/lsmlab.github.io/blob/main/images/team/shangfei.jpg?raw=true',
         //email: '',
@@ -116,21 +116,21 @@ const teamMembers = [
       {
         name: '游珑凌',
         nameEn: 'YOU Longling',
-        role: '2022级 硕士生',
+        role: '2022级 硕士',
         //research: '',
         image: 'https://github.com/suowei0205/lsmlab.github.io/blob/main/images/team/youlongling.jpg?raw=true',
       },
       /* {
         name: '张蔚华',
         nameEn: 'ZHANG Weihua',
-        role: '2023级 硕士生',
+        role: '2023级 硕士',
         //research: '',
         image: 'https://github.com/suowei0205/lsmlab.github.io/blob/main/images/team/zhangweihua.jpg?raw=true',
       }, */
       {
         name: '周乐',
         nameEn: 'ZHOU Le',
-        role: '2021级 本科生',
+        role: '2021级 学士',
         //research: '',
         image: 'https://github.com/suowei0205/lsmlab.github.io/blob/main/images/team/zhoule.png?raw=true',
       }
