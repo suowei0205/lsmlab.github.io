@@ -123,7 +123,7 @@ const teamMembers = [
       /* {
         name: '张蔚华',
         nameEn: 'ZHANG Weihua',
-        role: '2023级 硕士',
+        role: '2023级 硕士生',
         //research: '',
         image: 'https://github.com/suowei0205/lsmlab.github.io/blob/main/images/team/zhangweihua.jpg?raw=true',
       }, */
